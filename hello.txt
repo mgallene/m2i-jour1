@@ -3,7 +3,3 @@ Hello world!
 Autre ligne
 
 Test annulation commit
-
-Test annulation commit 2
-
-Test annulation commit 3
