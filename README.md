@@ -1,4 +1,4 @@
-# m2i-jour1, et pourquoi pas ?
+# m2i-jour1, et oui !
 
 Mon nouveau fichier README
 
