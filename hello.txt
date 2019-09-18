@@ -1,3 +1,5 @@
 Hello world!
 
 Autre ligne
+
+Test annulation commit
